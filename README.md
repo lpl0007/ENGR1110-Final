@@ -55,3 +55,6 @@ Your project must contain narrative elements that:
 - Identify actions that could be taken to address the identified issue. This may involve raising awareness, advocating for policy changes, supporting organizations working in the area, or developing innovative solutions.
 
 Beyond these basic requirements we want you to exercise your creativity - choose something that excites you! Impress us!
+
+## Grade
+96/100
